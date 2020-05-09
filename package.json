@@ -6,8 +6,7 @@
   "bin": {
     "api-cli": "./bin/index.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "author": "kuangliting",
   "license": "ISC",
   "dependencies": {
