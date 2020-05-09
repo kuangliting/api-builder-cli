@@ -1,0 +1,20 @@
+{
+  "name": "generate-api-cli",
+  "version": "1.0.0",
+  "description": "Generate the front-end API call method according to the swagger.json provided by the back-end",
+  "main": "index.js",
+  "bin": {
+    "api-cli": "./bin/index.js"
+  },
+  "scripts": {
+  },
+  "author": "kuangliting",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "fs-extra": "^9.0.0",
+    "gutil": "^1.6.4",
+    "inquirer": "^7.1.0",
+    "node-fetch": "^2.6.0"
+  }
+}
