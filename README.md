@@ -1,0 +1,1 @@
+#Generate the front-end API call method according to the swagger.json provided by the back-end
