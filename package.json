@@ -1,6 +1,6 @@
 {
   "name": "api-builder-cli",
-  "version": "0.2.5",
+  "version": "0.2.8",
   "description": "Generate the front-end API call method according to the swagger.json provided by the back-end",
   "main": "index.js",
   "bin": {
