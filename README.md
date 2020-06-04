@@ -47,8 +47,8 @@ module.exports = {
         },
         
     },
-    //tsSupport: false,
-    //typePath: resolve("src/typings/api/smartCity.d.ts"),
+    tsSupport: false,
+    typePath: resolve("src/typings/api/smartCity.d.ts"),
 }
 
 ```
